@@ -6,9 +6,8 @@
     </td>
     <td>
                              
-<strong style="font-size: 50px;">𝕓𝕦𝕘𝕙𝕦𝕟𝕥𝕖𝕣</strong>  
+<strong style="font-size: 50px;">-ʙʟᴀᴄᴋʜᴀᴛ</strong>  
 - grinding for top 1 in htb <br>
-- learning reverse engineering <br>
 - hobbies: games/animes/manga <br>
 - twitter: https://twitter.com/gabesw44 <br>
     </td>
